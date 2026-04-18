@@ -9,7 +9,6 @@ This is a sample structure for your branch.
 
 Add your notes here.
 
-```mermaid
-graph TD
-
-```
+$$
+\frac{a}{b}
+$$
