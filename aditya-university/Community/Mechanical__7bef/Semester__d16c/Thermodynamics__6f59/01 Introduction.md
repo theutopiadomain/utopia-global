@@ -1,5 +1,3 @@
-## Questions
-
 **Q1** — Explain the following terms: `4M`  
 1. System  
 2. Surrounding  
