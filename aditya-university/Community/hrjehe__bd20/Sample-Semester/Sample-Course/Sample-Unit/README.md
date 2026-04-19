@@ -24,8 +24,8 @@ int main() {
 
 [~~~~](url)
 ~~gamw~~
-**home** jenek [title](link.voml)
+**home** jenek
 
 $$
-
+\frac{a}/{b}
 $$
