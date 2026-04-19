@@ -27,7 +27,7 @@ int main() {
 [~~~~](url)
 ~~gamw~~
 **home** jenek
-$\frac{a}{b}$ 
+$5_{55}$ 
 
 *game* ganenwjnwnenen
 
