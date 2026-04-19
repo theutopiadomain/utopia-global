@@ -26,6 +26,8 @@ int main() {
 ~~gamw~~
 **home** jenek
 
+*game* ganenwjnwnenen
+
 $$
 \frac{a}/{b}
 $$
