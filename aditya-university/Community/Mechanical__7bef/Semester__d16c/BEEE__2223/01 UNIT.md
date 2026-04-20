@@ -4,5 +4,5 @@ yooooooooooooooo😑
 
 ```mermaid
 graph TD
-hi -->bro
+hi-->bro
 ```
