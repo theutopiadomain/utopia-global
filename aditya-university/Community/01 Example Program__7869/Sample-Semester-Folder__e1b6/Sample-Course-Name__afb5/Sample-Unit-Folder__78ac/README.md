@@ -23,5 +23,5 @@ printf("Hellow 🌹");
 
 $$
 you can render laTex blocks also.
-frac{a}{b}
+/frac{a}{b}
 $$
