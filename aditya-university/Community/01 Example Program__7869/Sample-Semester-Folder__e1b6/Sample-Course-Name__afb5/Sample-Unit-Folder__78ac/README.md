@@ -22,6 +22,5 @@ printf("Hellow 🌹");
 | row11 | row12 |
 
 $$
-you can render laTex blocks also.
 /frac{a}{b}
 $$
