@@ -22,8 +22,5 @@ printf("Hellow 🌹");
 | row11 | row12 |
 
 $$
-\[
-\int_{\mathbb{R}^n} e^{-\frac{1}{2}\mathbf{x}^T A \mathbf{x}} \, d\mathbf{x}
-= \sqrt{\frac{(2\pi)^n}{\det(A)}}
-\]
+\[x=\frac{-b\pm\sqrt{b^2-4ac}}{2a\]
 $$
