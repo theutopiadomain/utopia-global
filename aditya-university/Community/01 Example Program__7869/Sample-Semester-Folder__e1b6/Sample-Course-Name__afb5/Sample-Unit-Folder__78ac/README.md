@@ -14,3 +14,14 @@ int main()
 printf("Hellow 🌹");
 }
 ```
+
+**example table**
+
+| column 1 | column 2 |
+| --- | --- |
+| row11 | row12 |
+
+$$
+you can render laTex blocks also.
+frac{a}{b}
+$$
