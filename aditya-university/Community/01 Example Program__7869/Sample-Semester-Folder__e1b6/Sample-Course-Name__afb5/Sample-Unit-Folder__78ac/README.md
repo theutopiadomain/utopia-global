@@ -21,6 +21,8 @@ printf("Hellow 🌹");
 | --- | --- |
 | row11 | row12 |
 
+## Supports Latex Render!
+
 $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
