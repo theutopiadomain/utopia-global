@@ -17,3 +17,7 @@ $$
 
 int main ()
 ```
+
+## Questions
+
+SALMAN is [^Answer^](qa://GHOST)
