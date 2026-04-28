@@ -6,5 +6,5 @@
 - Mahesh → 
 - bala K →
 - siva →
-- KD →
+- KD → IOT
 - Jaswanth →
