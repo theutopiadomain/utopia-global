@@ -1,6 +1,6 @@
 ## people - role
 
-Inferno → PPSUC
+- Inferno → PPSUC
 Salman → 
 Panda →
 Mahesh → 
