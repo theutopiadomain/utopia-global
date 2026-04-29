@@ -1,10 +1,11 @@
 ## people - role
 
 - Inferno → PPSUC
-- Salman → 
-- Panda →
-- Mahesh → 
-- bala K →
-- siva →
+- Salman → LABS
+- Panda →MAT
+- Mahesh → CHE
+- bala K →EM
+- siva →BEEE
 - KD → IOT
-- Jaswanth →
+- Jaswanth →TD
+- anand-»
