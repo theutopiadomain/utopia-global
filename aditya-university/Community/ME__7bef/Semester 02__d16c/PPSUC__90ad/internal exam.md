@@ -1,2 +1,1 @@
-# internal exam
-
+## Questions and answers
